@@ -13,7 +13,7 @@ public class autoMovement : MonoBehaviour
     public int speed=1;
 
     float scale = 0.20f;
-    int points=9;
+    int points=1;
 
    public int currentLevel;
     // Start is called before the first frame update
@@ -69,11 +69,9 @@ public class autoMovement : MonoBehaviour
    {
     // rigid.velocity = new Vector2(movement * speed, rigid.velocity.y);
     if (goingLeft)
-      // Flip();
       moveLeft();
 
     if(!goingLeft)
-     // Flip();
      moveRight();
 
 
@@ -95,7 +93,6 @@ if (currentLevel==4){
 if (currentLevel==5){
         scale += 0.09f * Time.deltaTime;
         transform.localScale = new Vector2(scale, scale);
-        // fleeingAlgo();
 }
 
 if (currentLevel==6){
@@ -162,8 +159,6 @@ public void fleeingAlgo(){
 var player = GameObject.Find("basic1");
 transform.position = transform.position = Vector2.MoveTowards(transform.position, -player.transform.position, speed * Time.deltaTime);
 
-  // Vector3 dir = (transform.position - player.transform.position).normalized;
-  // transform.Translate(dir * Time.deltaTime);
 
 }
 

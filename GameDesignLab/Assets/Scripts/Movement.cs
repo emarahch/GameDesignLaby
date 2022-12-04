@@ -11,22 +11,38 @@ public class Movement : MonoBehaviour
 	[SerializeField] bool jumpPressed = false;
 	[SerializeField] float jumpForce = 500.0f;
 	[SerializeField] bool isGrounded = true;
+    [SerializeField] Animator animator;
 
+     const int IDLE = 0;
+    const int RUN = 1;
+    const int JUMP = 2;
     // Start is called before the first frame update
+
     void Start()
     {
 		if (rigid == null)
 			rigid = GetComponent<Rigidbody2D>();
-			// isGrounded = true;
+		if (animator == null)
+            animator = GetComponent<Animator>();
+            animator.SetInteger("Motion", IDLE);
     }
 
+
+
     // Update is called once per frame
-    //good for user input
     void Update()
     {
 		movement = Input.GetAxis("Horizontal");
         if (Input.GetButtonDown("Jump"))
 			jumpPressed = true;
+			 animator.SetInteger("Motion", JUMP);
+       if (!jumpPressed && isGrounded)
+        {
+            if (movement >= .01 || movement <= -.01)
+                animator.SetInteger("Motion", RUN);
+            else
+                animator.SetInteger("Motion", IDLE);
+        }
 
     }
 
@@ -59,5 +75,6 @@ public class Movement : MonoBehaviour
 	{
 		if (collision.gameObject.tag == "Ground")
 			isGrounded = true;
+			animator.SetInteger("Motion", IDLE);
 	}
 }

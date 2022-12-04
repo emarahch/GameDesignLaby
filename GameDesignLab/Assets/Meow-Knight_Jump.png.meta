@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 59ee298c0f20b46fc85cc42e940303bc
+guid: 00defa017547943048300547372267cb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,337 +117,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_0
+      name: Meow-Knight_Jump_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 160
-        width: 14
-        height: 16
+        x: 1
+        y: 350
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c52655f1883a24031aa05f38dd668fff
-      internalID: 1381685164
+      spriteID: 23dcf7eb1688141f3af0b736e51738db
+      internalID: -847887358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_1
+      name: Meow-Knight_Jump_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 160
-        width: 14
+        x: 2
+        y: 324
+        width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21113f1078be746ec806133e8a29f08a
-      internalID: -1011999511
+      spriteID: 7e287f6ad385440e4a2a9902111eb10f
+      internalID: -1522708237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_2
+      name: Meow-Knight_Jump_2
       rect:
         serializedVersion: 2
-        x: 113
-        y: 160
-        width: 14
-        height: 16
+        x: 1
+        y: 298
+        width: 13
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29382d3919f4c4f71989d27276a4780f
-      internalID: -1614358863
+      spriteID: ca72881633dd64bc8aedb8e5d6c2e526
+      internalID: 510204034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_3
+      name: Meow-Knight_Jump_3
       rect:
         serializedVersion: 2
-        x: 161
-        y: 160
-        width: 14
-        height: 16
+        x: 2
+        y: 270
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5925eacc84b8486785b091e1c7c4e9a
-      internalID: 904419002
+      spriteID: 092ca259e7aa44a1fb062581975ba0e7
+      internalID: -189457876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_4
+      name: Meow-Knight_Jump_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 112
-        width: 14
-        height: 16
+        x: 2
+        y: 226
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e1760072346488ca5c4239a68a7ae7
-      internalID: -2007088922
+      spriteID: 8b012d31066f741ba81c3fedf2e0d4e5
+      internalID: -1475416827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_5
+      name: Meow-Knight_Jump_5
       rect:
         serializedVersion: 2
-        x: 65
-        y: 112
-        width: 14
-        height: 16
+        x: 2
+        y: 186
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 836098264c9c641bfba2a3d7c37e02eb
-      internalID: -754046453
+      spriteID: caf3a141c30db48ef9f2f27943d69a04
+      internalID: -1143210713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_6
+      name: Meow-Knight_Jump_6
       rect:
         serializedVersion: 2
-        x: 113
-        y: 112
-        width: 14
+        x: 2
+        y: 145
+        width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feabcd63829af4e4796e31d88d1397de
-      internalID: -327703840
+      spriteID: 38604be44ed0a43f4a84bb122894330e
+      internalID: 514992613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_7
+      name: Meow-Knight_Jump_7
       rect:
         serializedVersion: 2
-        x: 161
-        y: 112
-        width: 14
+        x: 2
+        y: 104
+        width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfd30d736412d4a8aacd8407272d0525
-      internalID: 2103232663
+      spriteID: ad85ed26d1a104374b19a5188c1f6a6f
+      internalID: -904999741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_8
+      name: Meow-Knight_Jump_8
       rect:
         serializedVersion: 2
-        x: 19
-        y: 64
-        width: 10
+        x: 2
+        y: 78
+        width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ef2163b279fc4b419e6750680b98c87
-      internalID: -2068775406
+      spriteID: 18f77ab92b39547da827a10fdd5cf8e1
+      internalID: -1397310152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_9
+      name: Meow-Knight_Jump_9
       rect:
         serializedVersion: 2
-        x: 67
-        y: 64
-        width: 10
-        height: 16
+        x: 2
+        y: 52
+        width: 12
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 674ee544e4e3b4e82baeb1f8e31620e4
-      internalID: -3371676
+      spriteID: 1be70c19ab81d470386c5173e5ffba2f
+      internalID: 614477926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_10
+      name: Meow-Knight_Jump_10
       rect:
         serializedVersion: 2
-        x: 115
-        y: 64
-        width: 10
-        height: 16
+        x: 1
+        y: 26
+        width: 13
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11abaf759d9b449ec9f23c0f2de405dc
-      internalID: 319596250
+      spriteID: 0d06d6cd367bb4906aafba6b81094eeb
+      internalID: -865429979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_11
+      name: Meow-Knight_Jump_11
       rect:
         serializedVersion: 2
-        x: 163
-        y: 64
-        width: 10
-        height: 16
+        x: 1
+        y: 0
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14f1e552261dc4031a07d46dfd544558
-      internalID: -1540485115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_12
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 16
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a7215655e71e4d98b5a12744a907c77
-      internalID: 105588043
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_13
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 16
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f66ea05de50a466a89fda8d39aac0d8
-      internalID: 1767945696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_14
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 16
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27e74769eb13841019c1bfa78b65b01f
-      internalID: 393701833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_15
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 16
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 398102a040c954a919ad2e9c6e78f9c9
-      internalID: -1569528216
+      spriteID: 33e41ff445acc4b75adc24c491b8727f
+      internalID: 1941383747
       vertices: []
       indices: 
       edges: []
@@ -463,22 +379,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic Charakter Spritesheet_5: -754046453
-      Basic Charakter Spritesheet_15: -1569528216
-      Basic Charakter Spritesheet_0: 1381685164
-      Basic Charakter Spritesheet_6: -327703840
-      Basic Charakter Spritesheet_9: -3371676
-      Basic Charakter Spritesheet_14: 393701833
-      Basic Charakter Spritesheet_12: 105588043
-      Basic Charakter Spritesheet_2: -1614358863
-      Basic Charakter Spritesheet_3: 904419002
-      Basic Charakter Spritesheet_8: -2068775406
-      Basic Charakter Spritesheet_7: 2103232663
-      Basic Charakter Spritesheet_4: -2007088922
-      Basic Charakter Spritesheet_11: -1540485115
-      Basic Charakter Spritesheet_1: -1011999511
-      Basic Charakter Spritesheet_10: 319596250
-      Basic Charakter Spritesheet_13: 1767945696
+      Meow-Knight_Jump_0: -847887358
+      Meow-Knight_Jump_11: 1941383747
+      Meow-Knight_Jump_9: 614477926
+      Meow-Knight_Jump_8: -1397310152
+      Meow-Knight_Jump_5: -1143210713
+      Meow-Knight_Jump_4: -1475416827
+      Meow-Knight_Jump_10: -865429979
+      Meow-Knight_Jump_3: -189457876
+      Meow-Knight_Jump_7: -904999741
+      Meow-Knight_Jump_6: 514992613
+      Meow-Knight_Jump_1: -1522708237
+      Meow-Knight_Jump_2: 510204034
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
